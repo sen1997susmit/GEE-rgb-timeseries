@@ -1,5 +1,4 @@
-# GEE-rgb-timeseries
-
+# ee-rgb-timeseries
 
 _For the [Google Earth Engine](https://earthengine.google.com/) JavaScript Code Editor_
 
